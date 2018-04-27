@@ -3,6 +3,6 @@
 
   angular.module('application', [
     'deviceFactory',
-    'dataTable'
+    'deviceTable'
   ]);
 })();

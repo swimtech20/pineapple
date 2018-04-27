@@ -1,0 +1,625 @@
+{
+  "id": "devices",
+  "title": "Devices",
+  "headers": [
+    {
+      "label": "Model",
+      "full_label": "Device -> Model"
+    },
+    {
+      "label": "Person",
+      "full_label": "Device -> Person"
+    },
+    {
+      "label": "Group",
+      "full_label": "Device -> Group"
+    },
+    {
+      "label": "Device Category",
+      "full_label": "Device -> Device Category"
+    }
+  ],
+  "rows": [
+    [
+      "Apple iPad 4 16GB - Black",
+      "Alivia Mohr",
+      "National Configuration Executives",
+      "Tablet"
+    ],
+    [
+      "Apple iPhone",
+      "Lane Dibbert",
+      "Customer Integration Producers",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Chelsea Schowalter",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Frederic Reynolds",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "ZTE MF79S",
+      "Leda Altenwerth",
+      "Human Tactics Administrators",
+      "Data Card"
+    ],
+    [
+      "Apple iPhone",
+      "Muriel Lubowitz",
+      "Customer Integration Producers",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Kim Kunde",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Celestino Gleichner",
+      "Future Directives Facilitators",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Evert Larson",
+      "Human Metrics Producers",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Dee Block",
+      "Human Metrics Producers",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Chelsea Kshlerin",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Alfredo Adams",
+      "Human Tactics Administrators",
+      "Smart Phone"
+    ],
+    [
+      "Generic Phone",
+      "Ocie Marquardt",
+      "Human Solutions Agents",
+      "Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Hope Schuster",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Miracle Kessler",
+      "Direct Response Technicians",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Vanessa Davis",
+      "Customer Integration Producers",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Devin Kessler",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Simone Hand",
+      "National Optimization Directors",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 6s 32GB",
+      "Domenica Jones",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Hildegard Schroeder",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Caden Runolfsson",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Susana Johnston",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Edwina Gulgowski",
+      "Investor Program Architects",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Antone Gerhold",
+      "Corporate Creative Facilitators",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Skylar Green",
+      "Investor Paradigm Developers",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Kylee Konopelski",
+      "National Optimization Directors",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Riley Hoeger",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Assunta Donnelly",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Saige Graham",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Silver",
+      "Cheyenne Boyer",
+      "Senior Program Liaisons",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone SE 32GB",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Micah Reinger",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Verizon Jetpack 4G LTE Mobi",
+      "Dina Conroy",
+      "National Configuration Executives",
+      "Data Card"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Norberto Dibbert",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Wilhelm Lemke",
+      "Human Tactics Administrators",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Cory Kovacek",
+      "Chief Branding Technicians",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Dereck Goodwin",
+      "Senior Program Liaisons",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Clemmie Cummings",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "LG Revere 3",
+      "Elvera Schmeler",
+      "National Configuration Executives",
+      "Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Carolina Witting",
+      "Corporate Creative Facilitators",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Deon Hansen",
+      "Direct Response Technicians",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Gilbert Hyatt",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Kieran Schultz",
+      "Investor Paradigm Developers",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Dorthy Koepp",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Bennett Spinka",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Broderick Beatty",
+      "Investor Program Architects",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Sammy Witting",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Elnora Cummings",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Liana Legros",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Lamont Olson",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Mariano Feeney",
+      "Investor Program Architects",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Justus Wiza",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Cleve Thompson",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 5s 16GB",
+      "Camden Batz",
+      "Human Tactics Administrators",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Reese Willms",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 6s 32GB",
+      "Sunny Heathcote",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "D-Link 4G LTE USB Router DW",
+      "Monty Homenick",
+      "Human Tactics Administrators",
+      "Router"
+    ],
+    [
+      "Apple iPhone 6s 32GB",
+      "Lea Stanton",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPad (2017) 32GB",
+      "Salvatore Leannon",
+      "National Configuration Executives",
+      "Tablet"
+    ],
+    [
+      "Apple iPad (2017) 32GB",
+      "Tremayne Kulas",
+      "Regional Branding Facilitators",
+      "Tablet"
+    ],
+    [
+      "Apple iPhone",
+      "Alfredo Keebler",
+      "Future Directives Facilitators",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 Plus 128GB",
+      "Jennifer Marks",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Silas Champlin",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "Jerad Kunze",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Bart Schaden",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Android Smartphone -BYOM",
+      "Isom Macejkovic",
+      "Customer Integration Producers",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Berta Lakin",
+      "Human Intranet Strategists",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Silver",
+      "Graham Auer",
+      "Senior Program Liaisons",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Kayley Koss",
+      "Human Solutions Agents",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Oma Bartell",
+      "National Configuration Executives",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone",
+      "Francesca Mraz",
+      "Product Optimization Analysts",
+      "Smart Phone"
+    ],
+    [
+      "LG Terra",
+      "Breana Stehr",
+      "National Configuration Executives",
+      "Phone"
+    ],
+    [
+      "Apple iPhone 5s 16GB",
+      "Camden Batz",
+      "Human Tactics Administrators",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "",
+      "",
+      "Smart Phone"
+    ],
+    [
+      "Apple iPhone 7 32GB - Black",
+      "",
+      "",
+      "Smart Phone"
+    ]
+  ],
+  "collection_entries": 100
+}
