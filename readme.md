@@ -1,7 +1,7 @@
 # Project _Pineapple_
 
 This project allows developer candidates to display their ability to deliver clean
-and usable code using AngularJS in a timely manner. Candidates will receive feedback on their coding
+and usable code using AngularJS or Angular (version 7) in a timely manner. Candidates will receive feedback on their coding
 style, substance, and completeness following the exercise.
 
 ## Preparation
