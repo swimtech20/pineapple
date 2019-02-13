@@ -2,7 +2,7 @@
 
 This project allows developer candidates to display their ability to deliver clean
 and usable code using AngularJS or Angular (version 7) in a timely manner. Candidates will receive feedback on their coding
-style, substance, and completeness following the exercise.
+style, substance, and completeness following the exercise. If you choose to use a modern version of Angular, please refer to [this Repository](https://github.com/mobi/pineapple-ng6).
 
 ## Preparation
 
