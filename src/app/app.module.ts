@@ -1,10 +1,11 @@
+import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { AppRoutingModule } from './app-routing.module';
+
 import { AppComponent } from './app.component';
 import { TableComponent } from './components/table/table.component';
+import { DemoMaterialModule } from './modules/material.module';
 
 @NgModule({
   declarations: [
@@ -13,8 +14,9 @@ import { TableComponent } from './components/table/table.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    HttpClientModule,
+    DemoMaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]

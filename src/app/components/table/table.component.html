@@ -1,1 +1,17 @@
-<p>table works!</p>
+<div class="device-table" *ngIf="deviceTable">
+  <table class="device-table__table">
+    <caption class="device-table__caption">{{ deviceTable.title }}</caption>
+    <thead>
+      <th *ngFor="let header of deviceTable.headers" class="device-table__th">
+        {{ header | titlecase }}
+      </th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let row of deviceTable.rows">
+        <td *ngFor="let column of deviceTable.headers">
+          {{ row[column] }}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

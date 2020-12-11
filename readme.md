@@ -4,6 +4,9 @@ This project allows developer candidates to display their ability to deliver cle
 and usable code using Angular in a timely manner. Candidates will receive feedback on their coding
 style, substance, and completeness following the exercise.
 
+_We've included all of the Angular Material framework in the project for your ease. Feel free to use it
+at your discretion._
+
 ## Preparation
 
 - [ ] Make sure you have [Node](https://nodejs.org/en/download) installed on your
