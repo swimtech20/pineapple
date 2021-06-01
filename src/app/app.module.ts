@@ -5,11 +5,10 @@ import { DemoMaterialModule } from './modules/material.module';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
-import { SearchBarComponent } from './components/search-bar/search-bar.component';
 import { TableComponent } from './components/table/table.component';
 
 @NgModule({
-  declarations: [AppComponent, TableComponent, SearchBarComponent],
+  declarations: [AppComponent, TableComponent],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,

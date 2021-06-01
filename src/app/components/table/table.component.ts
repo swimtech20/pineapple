@@ -35,6 +35,7 @@ export class TableComponent implements OnInit {
 
     this.deviceService.getAll().subscribe((res: DeviceTable) => {
       console.log(res.rows.length);
+
       res.rows = res.rows.filter((r) => {
         r.device_category.includes(input) ||
           r.group.includes(input) ||
