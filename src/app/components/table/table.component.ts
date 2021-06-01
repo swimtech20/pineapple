@@ -1,9 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
-import { Device } from 'src/app/models/device.model';
 import { DeviceService } from 'src/app/services/device.service';
 import { DeviceTable } from 'src/app/models/device-table.model';
-import { NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-table',
@@ -31,7 +29,6 @@ export class TableComponent implements OnInit {
    */
   searchDevices(e: any): void {
     let input: string = String(e.target.value).toLowerCase();
-    console.log(input);
 
     this.deviceService.getAll().subscribe((res: DeviceTable) => {
       if (input.length > 0) {
@@ -43,7 +40,6 @@ export class TableComponent implements OnInit {
             r.person.toLowerCase().includes(input)
         );
       }
-
       this.deviceTable = res;
     });
   }

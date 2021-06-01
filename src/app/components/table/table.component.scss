@@ -40,6 +40,7 @@
   border-radius: 4px;
   box-shadow: $card-shadow;
   margin: 2rem auto;
+  padding: 10px;
   width: 1000px;
 
   &__caption {
@@ -47,6 +48,8 @@
     font-weight: 500;
     padding: 0.25rem;
     text-align: left;
+    width: 100%;
+    border-bottom: 1px solid $gray;
   }
 
   &__table {

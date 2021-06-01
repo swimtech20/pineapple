@@ -4,11 +4,10 @@
     <label for="search" id="searchLabel">Search Devices: </label>
     <input
       type="text"
-      ngModel
       id="searchInput"
-      name="searchText"
       (keyup)="searchDevices($event)"
       placeholder="Start typing here..."/>
+      <span style="margin-left: 5px">({{ deviceTable.rows.length }} results)</span>
   </div>
 <!-- </form> -->
 
@@ -17,7 +16,10 @@
     <caption class="device-table__caption">{{ deviceTable.title }}</caption>
     <thead>
       <th *ngFor="let header of deviceTable.headers" class="device-table__th">
-        {{ header | titlecase }}
+        <span *ngIf="header != 'device_category' else categoryHeader">{{ header | titlecase }}</span>
+        <ng-template #categoryHeader>
+          <span>{{ 'category' | titlecase }}</span>
+        </ng-template>
       </th>
     </thead>
     <tbody>
