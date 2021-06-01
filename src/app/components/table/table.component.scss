@@ -22,17 +22,6 @@
     padding: 3px;
     margin-left: 10px;
   }
-
-  #searchBtn {
-    display: inline-block;
-    margin-left: 5px;
-    padding: 3px;
-
-    &:hover {
-      background-color: darken(#fff, 15%);
-      cursor: pointer;
-    }
-  }
 }
 
 .device-table {
