@@ -1,3 +1,17 @@
+
+<!-- <form #sf="ngForm" (ngSubmit)="searchDevices(sf)"></form> -->
+  <div id="searchBar">
+    <label for="search" id="searchLabel">Search Devices: </label>
+    <input
+      type="text"
+      ngModel
+      id="searchInput"
+      name="searchText"
+      (keyup)="searchDevices($event)"
+      placeholder="Start typing here..."/>
+  </div>
+<!-- </form> -->
+
 <div class="device-table" *ngIf="deviceTable">
   <table class="device-table__table">
     <caption class="device-table__caption">{{ deviceTable.title }}</caption>

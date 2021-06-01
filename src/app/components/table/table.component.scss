@@ -1,5 +1,39 @@
-$card-bg: #fff;
-$card-shadow: 0 4px 9px rgba(0, 0, 0, .2);
+@import "src/variables";
+
+#searchBar {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+
+  width: 90%;
+  min-height: 50px;
+  margin: 25px auto;
+  padding: 5px 30px;
+
+  background-color: $gray;
+
+  #searchLabel {
+    font-weight: bold;
+  }
+
+  #searchInput {
+    display: inline-block;
+    width: 25%;
+    padding: 3px;
+    margin-left: 10px;
+  }
+
+  #searchBtn {
+    display: inline-block;
+    margin-left: 5px;
+    padding: 3px;
+
+    &:hover {
+      background-color: darken(#fff, 15%);
+      cursor: pointer;
+    }
+  }
+}
 
 .device-table {
   background: $card-bg;
@@ -11,7 +45,7 @@ $card-shadow: 0 4px 9px rgba(0, 0, 0, .2);
   &__caption {
     font-size: 1.25rem;
     font-weight: 500;
-    padding: .25rem;
+    padding: 0.25rem;
     text-align: left;
   }
 
@@ -20,7 +54,7 @@ $card-shadow: 0 4px 9px rgba(0, 0, 0, .2);
 
     td,
     th {
-      padding: .25rem;
+      padding: 0.25rem;
       text-align: left;
     }
   }
