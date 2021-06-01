@@ -30,19 +30,19 @@ export class TableComponent implements OnInit {
    * @param e search event
    */
   searchDevices(e: any): void {
-    console.log(e.target.value);
-    let input: string = String(e.target.value);
+    let input: string = String(e.target.value).toLowerCase();
+    console.log(input);
 
     this.deviceService.getAll().subscribe((res: DeviceTable) => {
-      console.log(res.rows.length);
-
-      res.rows = res.rows.filter((r) => {
-        r.device_category.includes(input) ||
-          r.group.includes(input) ||
-          r.model.includes(input) ||
-          r.person.includes(input);
-      });
-      console.log(res.rows.length);
+      if (input.length > 0) {
+        res.rows = res.rows.filter(
+          (r) =>
+            r.device_category.toLowerCase().includes(input) ||
+            r.group.toLowerCase().includes(input) ||
+            r.model.toLowerCase().includes(input) ||
+            r.person.toLowerCase().includes(input)
+        );
+      }
 
       this.deviceTable = res;
     });
